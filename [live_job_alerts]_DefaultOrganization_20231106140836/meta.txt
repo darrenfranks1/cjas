@@ -1,0 +1,94 @@
+Task:
+Comprehensive Job Alerts System (CJAS)
+Objective:
+Develop a full-scale web application that provides users with the ability to search for jobs using keywords and locations, and receive daily updates on matching job opportunities from a wide array of job boards, including Google and potentially LinkedIn.
+Scope:
+The CJAS will be a robust platform with user account creation capabilities, allowing for personalized job search criteria and customizable job alert delivery systems.
+Key Features:
+User Registration and Profile Management:
+	Secure sign-up/login process.
+	Profile customization for job preferences.
+Job Search Functionality:
+	Advanced search filters based on keywords, locations, and other relevant parameters.
+	Aggregation of job listings from various job boards and platforms.
+Daily Job Alerts:
+	Automated system to send daily job alert notifications to users based on their saved search criteria.
+	Options for email or in-app notifications.
+Display Options:
+	Standard list view for job search results.
+	Kanban-style board view for a visual representation of job opportunities.
+Custom Fields and Personalization:
+	Users can create custom fields for additional job filtering.
+	Customizable Kanban columns/cards for personalized workflow management.
+Comprehensive Job Board Integration:
+	Integration with major job boards to ensure extensive search capabilities.
+	Explore possibilities for integrating with LinkedIn's job listings.
+Responsive Design:
+	The application will be fully responsive to ensure functionality across all devices.
+User Assistance and Support:
+	In-app guidance for setting up job alerts and customizing the board view.
+	Customer support for troubleshooting and inquiries.
+Technical Considerations:
+Front-End Development: React.js or Angular for a dynamic and responsive interface.
+Back-End Development: Node.js with Express for robust server-side functionality.
+Database Management: MongoDB or MySQL for storing user profiles and job data.
+API Integration: RESTful APIs for job board integration; specific APIs for platforms like Google Jobs and others.
+Authentication: JWT or OAuth for secure access control.
+Cloud Hosting: AWS or Azure for scalable and reliable hosting solutions.
+Compliance and Security:
+Ensure adherence to privacy laws and data protection standards.
+Implement best practices for data security and user privacy.
+User Experience:
+Streamlined UI/UX for ease of use and accessibility.
+Intuitive navigation and interactive elements for a positive user journey.
+Development Roadmap:
+Requirement Gathering and Analysis: 1 month
+System Design: 2 months
+Development Phase:
+	Front-end: 4 months
+	Back-end: 4 months
+	Integrations: 2 months
+Testing and Quality Assurance: 2 months
+User Acceptance Testing (UAT): 1 month
+Launch Preparation: 1 month
+Go-Live: Estimated at 1 year from project commencement.
+Budget:
+A preliminary budget estimate will be prepared, encompassing development, design, integrations, testing, security, cloud hosting, and maintenance costs.
+Success Criteria:
+User base growth rate.
+User engagement with job alerts.
+Positive user feedback on functionality and usability.
+Number of job applications initiated via the CJAS.
+Post-Launch:
+Continuous monitoring and user support.
+Regular updates based on user feedback and technological advancements.
+Strategic marketing to grow the user base and establish partnerships with job boards.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+web application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
